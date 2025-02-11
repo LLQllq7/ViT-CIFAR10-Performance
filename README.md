@@ -2,7 +2,7 @@
 
 ## Vision Transformer for CIFAR-10 Classification and Model Comparison
 
-*The University of Science & Technology of China*, *Leqi Li*
+*Leqi Li, The University of Science & Technology of China*
 
 This project implements and evaluates the Vision Transformer (ViT) model for image classification on the CIFAR-10 dataset. The main objectives are to replicate the Transformer model originally proposed in "Attention is All You Need" and adapt it for computer vision tasks. The Vision Transformer (ViT) is compared with other popular pretrained models, including ResNet18 and an enhanced version of ViT (ViT+ToMe), in terms of classification accuracy and training performance.
 
